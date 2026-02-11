@@ -2,7 +2,7 @@
 
 Uma aplicação web simples e responsiva que consome dados em tempo real da OpenWeather API para fornecer informações climáticas de cidades ao redor do mundo.
 
-##🚀 Funcionalidades
+## 🚀 Funcionalidades
 Busca de clima em tempo real por nome da cidade.
 
 Exibição de temperatura atual.
@@ -13,7 +13,7 @@ Indicadores de Umidade e velocidade do Vento.
 
 Interface responsiva (funciona em celular e desktop).
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML5: Estruturação da página.
 
 CSS3: Estilização e layout (Flexbox/Grid).
